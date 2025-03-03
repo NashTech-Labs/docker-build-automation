@@ -1,3 +1,0 @@
-[submodule "docker-build-automation"]
-	path = docker-build-automation
-	url = https://github.com/NashTech-Labs/docker-build-automation.git
